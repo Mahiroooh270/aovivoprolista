@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2020/01/bbb-logo-big-brother-brasil-logo-150x61.png" group-title="CANAIS: AO VIVO",BBB 22 HD
+
+https://edge-aws.aovivotv.xyz/hls/s:51.15.67.42/bbb22_c1dfd96e_79df8854046b2734f1be1f0db3a3b351d15d0f01/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiNDUuMTYyLjkuODIiO2k6MTtzOjE1NToiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgMTA7IE0xMCA0RyBQUk8gWCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMC4wLjQ4OTYuODggWWFCcm93c2VyLzIyLjUuMC45My4wMSAoYWxwaGEpIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2NTA2NzE3OTA7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2020/01/bbb-logo-big-brother-brasil-logo-150x61.png" group-title="CANAIS: AO VIVO",BBB 22 MOSAICO HD
+
+https://edge-aws.aovivotv.xyz/hls/s:51.158.172.111/bbb22mosaico_6765c043_20c6aebeda4bd53e3ea98eacbce4f959403b7d4d/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiNDUuMTYyLjkuODIiO2k6MTtzOjE1NToiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgMTA7IE0xMCA0RyBQUk8gWCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMC4wLjQ4OTYuODggWWFCcm93c2VyLzIyLjUuMC45My4wMSAoYWxwaGEpIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2NTA2NzE4NzM7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/globo-2.png" group-title="CANAIS: AO VIVO",GLOBO SP HD
+
+https://edge-aws.aovivotv.xyz/hls/s:51.15.67.42/globosp_cfe21c68_8ede3704124b05b96e7562e59c40fe2ea32f356f/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiNDUuMTYyLjkuODIiO2k6MTtzOjE1NToiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgMTA7IE0xMCA0RyBQUk8gWCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMC4wLjQ4OTYuODggWWFCcm93c2VyLzIyLjUuMC45My4wMSAoYWxwaGEpIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2NTA2NzE5NTE7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/rederecord.png" group-title="CANAIS: AO VIVO",RECORD HD
+
+https://edge-aws.aovivotv.xyz/hls/s:51.15.123.117/record_3554dce5_22217a9b4b4be8314597340ad7488f44ff25aea7/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiNDUuMTYyLjkuODIiO2k6MTtzOjE1NToiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgMTA7IE0xMCA0RyBQUk8gWCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMC4wLjQ4OTYuODggWWFCcm93c2VyLzIyLjUuMC45My4wMSAoYWxwaGEpIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2NTA2NzIwNDA7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2020/05/gloobinho.png" group-title="CANAIS: AO VIVO",GLOOBINHO HD
+
+https://edge-aws.aovivotv.xyz/hls/s:51.158.172.68/gloobinho_f597ae7c_02d98175923abb16da1e7cbdb3a0c50b9a35a5e5/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiNDUuMTYyLjkuODIiO2k6MTtzOjE1NToiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgMTA7IE0xMCA0RyBQUk8gWCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMC4wLjQ4OTYuODggWWFCcm93c2VyLzIyLjUuMC45My4wMSAoYWxwaGEpIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2NTA2NzIxNjE7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/tbs.png" group-title="CANAIS: AO VIVO",TBS HD
+
+https://edge-aws.aovivotv.xyz/hls/s:51.158.185.27/tbs_91eb375e_9ca89e4d009258ca9f2f54e8686ed34411f3e4e4/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiNDUuMTYyLjkuODIiO2k6MTtzOjE1NToiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgMTA7IE0xMCA0RyBQUk8gWCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMC4wLjQ4OTYuODggWWFCcm93c2VyLzIyLjUuMC45My4wMSAoYWxwaGEpIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2NTA2NzIyMzU7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/syfy.png" group-title="CANAIS: AO VIVO",SYFY HD
+
+https://edge-aws.aovivotv.xyz/hls/s:51.15.123.117/syfy_097ccd4f_739c395feffd9e3801c912080264d348a9ab9317/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiNDUuMTYyLjkuODIiO2k6MTtzOjE1NToiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgMTA7IE0xMCA0RyBQUk8gWCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMC4wLjQ4OTYuODggWWFCcm93c2VyLzIyLjUuMC45My4wMSAoYWxwaGEpIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2NTA2NzI0NDU7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/discovery.png" group-title="CANAIS: AO VIVO",DISCOVERY CHANNEL (ALTERNATIVO) HD
+
+https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/discoverychannel_af3e1334_2b45683b30a0d5bc2da3b53b2e4004d73c3bfff9/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiNDUuMTYyLjkuODIiO2k6MTtzOjE1NToiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgMTA7IE0xMCA0RyBQUk8gWCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMC4wLjQ4OTYuODggWWFCcm93c2VyLzIyLjUuMC45My4wMSAoYWxwaGEpIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2NTA2NzI1ODc7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2020/05/dazn-1-150x150.png" group-title="CANAIS: AO VIVO",DAZN 01 HD
+
+https://edge-aws.aovivotv.xyz/hls/s:51.15.41.121/dazn1_918fc64d_5b7bcc935f10841ef3d481d78db1e29051b4d591/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiNDUuMTYyLjkuODIiO2k6MTtzOjE1NToiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgMTA7IE0xMCA0RyBQUk8gWCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMC4wLjQ4OTYuODggWWFCcm93c2VyLzIyLjUuMC45My4wMSAoYWxwaGEpIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2NTA2NzI2NTk7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2021/06/starchannel.png" group-title="CANAIS: AO VIVO",STAR CHANNEL HD
+
+https://edge-aws.aovivotv.xyz/hls/s:51.15.52.211/starchannel_5a5b0f9b_2bfe672abe9ad4dc3b0bce1485fa83461f07345e/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiNDUuMTYyLjkuODIiO2k6MTtzOjE1NToiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgMTA7IE0xMCA0RyBQUk8gWCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMC4wLjQ4OTYuODggWWFCcm93c2VyLzIyLjUuMC45My4wMSAoYWxwaGEpIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2NTA2NzI3ODY7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/multishowhd.png" group-title="CANAIS: AO VIVO",MULTISHOW HD
+
+https://edge-aws.aovivotv.xyz/hls/s:51.158.185.27/multishow_5f573b82_ed4fa053165e69557465811d51752ebbd7ddaa33/playlist.m3u8?jsf=YTozOntpOjA7czoxMToiNDUuMTYyLjkuODIiO2k6MTtzOjE1NToiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgMTA7IE0xMCA0RyBQUk8gWCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMC4wLjQ4OTYuODggWWFCcm93c2VyLzIyLjUuMC45My4wMSAoYWxwaGEpIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2NTA2NzI5OTM7fQ%3D%3D
+
